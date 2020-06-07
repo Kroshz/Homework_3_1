@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Homework_3_1</string>
+    <string name="string_name">Комплексная система мониторинга здоровья</string>
+    <string name="string_author">Автор: Черствов А.Б.</string>
+    <string name="string_input">Пожалуйста, введите следующие данные</string>
+    <string name="iv_logo">Logo</string>
+    <string name="string_nameUser">Ваше имя</string>
+    <string name="string_ageNumber">Ваш возраст</string>
+    <string name="string_saveMain">Сохранить</string>
+    <string name="string_bt_activityLife">Запись жизненных показателей здоровья</string>
+    <string name="string_bt_activityPr">Запись показателей давления</string>
+    <string name="string_liveName">Запись жизненных показателей вашего здоровья</string>
+    <string name="string_weight">Текущий вес</string>
+    <string name="string_steps">Количество шагов</string>
+    <string name="string_back">Назад</string>
+    <string name="string_pUp">Верхнее давление</string>
+    <string name="string_pDw">Нижнее давление</string>
+    <string name="string_pulse">Пульс</string>
+    <string name="string_data">Дата замера</string>
+    <string name="string_time">Время замера</string>
+    <string name="string_pressureZ">мм.рт.ст</string>
+    <string name="string_pulseZ">уд./мин.</string>
+    <string name="string_dateZ">дд.мм.гг</string>
+    <string name="string_timeZ">чч.мм</string>
+    <string name="string_tah">Тахикардия</string>
+    <string name="string_toastWrong">Ошибка, неправильные данные</string>
+    <string name="String_save">Данные сохранены</string>
+    <string name="string_step">шагов</string>
+    <string name="string_kg">кг</string>
+</resources>
